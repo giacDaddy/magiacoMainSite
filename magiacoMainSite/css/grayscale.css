@@ -30,6 +30,14 @@ h6 {
     letter-spacing: 1px;
 }
 
+.roundedImgCorner{
+    border:1px solid #;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 18px #fff;  
+}
+
 .subTitle{
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     text-transform: uppercase;
